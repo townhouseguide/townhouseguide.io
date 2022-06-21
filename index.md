@@ -2,6 +2,9 @@
 
 Welcome home! Are you interested in townhouses?  You've come to the right place for information.  RL - 6/21/2022
 
+[New York City Townhouses](https://streeteasy.com/townhouses/nyc)
+
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
